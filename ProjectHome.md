@@ -1,0 +1,1 @@
+This is a basic wordlist generator . This is programmed using Java.
